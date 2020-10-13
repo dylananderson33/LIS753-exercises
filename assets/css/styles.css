@@ -29,7 +29,7 @@ h1, h2 {
    border-left: 4px solid #8B9AA5;
    padding: 12px;
    background-color: #F9F9F9;
-   margin-left: 0;
+   margin-left: .5em;
  }
 
  .image {
