@@ -4,7 +4,12 @@ body {
   color: #040303;
 }
 
-h1, h2, h3, h4, h5 {
-  font-size: 15em
+h1 {
+  color: #1C110A;
+  font-style: italic;
+}
+
+h2, h3, h4, h5 {
+  font-size: 15em;
   color: #9B2915
 }
