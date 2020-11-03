@@ -3,6 +3,7 @@ body {
   font-family: arial, sans-serif;
   color: #040303;
   text-align: left;
+  border: 2px solid #040303;
 }
 
 h1 {
@@ -16,7 +17,7 @@ h2, h3, h4, h5 {
   font-size: 2em;
   color: #9B2915;
   text-align: center;
-  margin-bottom: .5px;
+  margin-bottom: .5px solid #040303;
 }
 
 header {
@@ -24,7 +25,7 @@ header {
   background-color: #FDF0D5;
 }
 
-img {
+image {
   align-items: center;
 }
 
