@@ -2,14 +2,17 @@ body {
   background-color: #F4FAFF;
   font-family: arial, sans-serif;
   color: #040303;
+  text-align: center;
 }
 
 h1 {
   color: #1C110A;
   font-style: italic;
+  text-align: center;
 }
 
 h2, h3, h4, h5 {
   font-size: 15em;
-  color: #9B2915
+  color: #9B2915;
+  text-align: center;
 }
