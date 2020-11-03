@@ -2,7 +2,7 @@ body {
   background-color: #F4FAFF;
   font-family: arial, sans-serif;
   color: #040303;
-  text-align: center;
+  text-align: left;
 }
 
 h1 {
@@ -19,4 +19,5 @@ h2, h3, h4, h5 {
 
 header {
   text-align: center;
+  background-image: url(https://c8.alamy.com/comp/TW1B26/hand-draw-a-fire-truck-seamless-pattern-vector-boyish-background-in-scandinavian-style-red-fire-cute-cars-isolated-on-white-background-print-for-ch-TW1B26.jpg);
 }
