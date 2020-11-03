@@ -9,12 +9,14 @@ h1 {
   color: #1C110A;
   font-style: italic;
   text-align: center;
+  border-bottom: 2px;
 }
 
 h2, h3, h4, h5 {
   font-size: 2em;
   color: #9B2915;
   text-align: center;
+  margin-bottom: .5px;
 }
 
 header {
@@ -22,12 +24,13 @@ header {
   background-color: #FDF0D5;
 }
 
-image {
+img {
   align-items: center;
 }
 
 p {
   font-style: italic;
+  text-align: center;
 }
 
 footer {
