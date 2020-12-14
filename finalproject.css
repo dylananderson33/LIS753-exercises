@@ -1,9 +1,19 @@
 body {
-  background-color: #AECFDF;
+  background-color: #DBE4EE;
   font-family: arial, sans-serif;
   color: #02040F;
 }
 
 .wrapper {
-  background-color: #E5DADA
+  background-color: #FFFFFC
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: .5em;
+}
+
+caption {
+  font-style: italic;
+  font-size: 2em;
 }
