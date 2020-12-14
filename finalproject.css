@@ -1,13 +1,13 @@
 body {
-  background-color: #DBE4EE;
+  background-color: #FFFFFC;
   font-family: arial, sans-serif;
   color: #02040F;
 }
 
 .wrapper {
-  background-color: #FFFFFC
-  padding: 15px;
-  border-radius: 5px solid #02040F
+  background-color: #DBE4EE
+  padding: 12px;
+  border-radius: 4px solid #02040F
 }
 
 h1 {
