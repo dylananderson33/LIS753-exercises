@@ -5,7 +5,7 @@ body {
 }
 
 .wrapper {
-  background-color: #F7F0F0;
+  background-image: url(../images/floor-tile.png);
   text-align:center;
   border-radius: 2px solid #02040F;
   padding-left: 20px;
@@ -26,5 +26,4 @@ h2, h3, h4 {
   font-size: 2em;
   font-style: italic;
   background-color: #F9E9EC;
-  background-image: url(../images/floor-tile.png);
 }
