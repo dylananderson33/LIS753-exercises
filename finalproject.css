@@ -14,8 +14,8 @@ body {
 
 h1 {
   text-align: center;
+  background-image: url(../images/floor-tile.png);
   margin-bottom: .5em;
-  background-image: url(assets/images/double-bubble.png);
 }
 
 image center-image {
