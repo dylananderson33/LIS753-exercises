@@ -6,14 +6,23 @@ body {
 
 .wrapper {
   background-color: #FFFFFC
+  padding: 15px;
+  border-radius: 5px solid #02040F
 }
 
 h1 {
   text-align: center;
   margin-bottom: .5em;
+  background-image: url(../images/double-bubble.png);
 }
 
-caption {
+image center-image {
   font-style: italic;
   font-size: 2em;
+}
+
+h2, h3, h4 {
+  font-size: 2em;
+  font-style: italic;
+  background-color: #F9E9EC;
 }
