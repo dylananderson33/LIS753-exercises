@@ -5,7 +5,6 @@ body {
 }
 
 .wrapper {
-  background-image: url(../images/floor-tile.png);
   text-align:center;
   border-radius: 2px solid #02040F;
   padding-left: 20px;
@@ -15,6 +14,7 @@ body {
 h1 {
   text-align: center;
   margin-bottom: .5em;
+  background-image: url(../images/double-bubble.png);
 }
 
 image center-image {
