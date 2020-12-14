@@ -5,8 +5,11 @@ body {
 }
 
 .wrapper {
-  background-color: #DBE4EE
+  background-color: #F7F0F0;
   text-align:center;
+  border-radius: 2px solid #02040F;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 h1 {
